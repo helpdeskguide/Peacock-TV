@@ -30,22 +30,28 @@ To activate, visit the official page:
 2. Step-by-Step Activation Process
 -----------------------------------
 
-✅ **Step 1: Download the Peacock App**  
+**Step 1: Download the Peacock App** 
+
 Get the Peacock app from your device’s app store (Roku, Fire TV, Apple TV, Android TV, etc.)
 
-✅ **Step 2: Launch the App**  
+**Step 2: Launch the App**  
+
 Open the Peacock app on your device. An activation code will be displayed on-screen.
 
-✅ **Step 3: Visit PeacockTV.com/tv**  
+**Step 3: Visit PeacockTV.com/tv**  
+
 Go to `PeacockTV.com/tv <https://www.peacocktv.com/tv>`_ from your phone or computer.
 
-✅ **Step 4: Enter the Code**  
+**Step 4: Enter the Code**  
+
 Type the activation code displayed on your TV screen into the website.
 
-✅ **Step 5: Sign In**  
+**Step 5: Sign In**  
+
 Log in with your Peacock account or create one if you don’t already have one.
 
-✅ **Step 6: Start Streaming**  
+**Step 6: Start Streaming**  
+
 After successful activation, your device will be linked, and you can begin watching.
 
 3. Troubleshooting Activation Problems
@@ -62,11 +68,11 @@ If you run into issues, try the following:
 4. Why People Love Peacock TV
 ------------------------------
 
-🎥 **Big-Screen Entertainment** – Enjoy your favorite shows and movies on a larger display  
-📺 **Live TV and Sports** – Watch NBC News, WWE, Premier League & more  
-📶 **Seamless Streaming** – Designed for smooth playback on smart devices  
-💡 **Smart Recommendations** – Personalized picks based on your watch history  
-💰 **Flexible Plans** – Free, Premium, and Premium Plus options available  
+* **Big-Screen Entertainment** – Enjoy your favorite shows and movies on a larger display  
+* **Live TV and Sports** – Watch NBC News, WWE, Premier League & more  
+* **Seamless Streaming** – Designed for smooth playback on smart devices  
+* **Smart Recommendations** – Personalized picks based on your watch history  
+* **Flexible Plans** – Free, Premium, and Premium Plus options available  
 
 5. My Experience with Peacock TV
 ---------------------------------
@@ -86,18 +92,23 @@ FAQs
 ====
 
 **1. What is PeacockTV.com/tv?**  
+
 It’s the official activation site for linking your Peacock account to a device using the on-screen code.
 
 **2. Is a subscription needed to activate Peacock?**  
+
 You can activate a free Peacock account. Premium options are available for extra features.
 
 **3. Why doesn’t my activation code work?**  
+
 Codes expire after a short period. Restart the app to get a new code and try again.
 
-**4. Can I use one account on multiple devices?**  
+**4. Can I use one account on multiple devices?** 
+
 Yes, you can use the same Peacock account on different devices by activating each separately.
 
 **5. Is PeacockTV.com/tv secure?**  
+
 Yes, it is the official and secure activation site operated by NBCUniversal.
 
 Final Thoughts
