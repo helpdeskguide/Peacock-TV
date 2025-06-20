@@ -2,16 +2,15 @@
 PeacockTV.com/tv
 ===============================
 
-Visit `PeacockTV.com/tv <https://www.peacocktv.com/tv>`_ to activate Peacock TV on your device quickly. Follow this guide to enter the activation code from your screen, sign in, and enjoy a seamless streaming experience on your smart TV, streaming stick, or gaming console.
+Visit `PeacockTV.com/tv <#>`_ to activate Peacock TV on your device quickly. Follow this guide to enter the activation code from your screen, sign in, and enjoy a seamless streaming experience on your smart TV, streaming stick, or gaming console.
 
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: PeacockTV.png
+.. image:: Button.png
    :alt: PeacockTV.com/tv
-   :target: https://www.peacocktv.com/tv
-
+   :target: https://fm.ci/?aHR0cHM6Ly9wZWFjb2NrLXR2LWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 .. raw:: html
 
     </div>
@@ -25,7 +24,7 @@ Watching Peacock TV on your television is easy. Just follow these steps to get s
 ------------------------------------------
 
 To activate, visit the official page:  
-`https://www.peacocktv.com/tv <https://www.peacocktv.com/tv>`_
+`https://www.peacocktv.com/tv <#>`_
 
 2. Step-by-Step Activation Process
 -----------------------------------
@@ -40,7 +39,7 @@ Open the Peacock app on your device. An activation code will be displayed on-scr
 
 **Step 3: Visit PeacockTV.com/tv**  
 
-Go to `PeacockTV.com/tv <https://www.peacocktv.com/tv>`_ from your phone or computer.
+Go to `PeacockTV.com/tv <#>`_ from your phone or computer.
 
 **Step 4: Enter the Code**  
 
@@ -114,5 +113,5 @@ Yes, it is the official and secure activation site operated by NBCUniversal.
 Final Thoughts
 ===============
 
-Activating your Peacock TV account at `PeacockTV.com/tv <https://www.peacocktv.com/tv>`_ is simple, fast, and user-friendly. Within minutes, you can stream top shows, live sports, and exclusive originals. Whether you’re using a smart TV or a streaming device, this guide ensures you get started without frustration. Enjoy entertainment on your terms with Peacock TV!
+Activating your Peacock TV account at `PeacockTV.com/tv <#>`_ is simple, fast, and user-friendly. Within minutes, you can stream top shows, live sports, and exclusive originals. Whether you’re using a smart TV or a streaming device, this guide ensures you get started without frustration. Enjoy entertainment on your terms with Peacock TV!
 
