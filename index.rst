@@ -10,7 +10,7 @@ Visit `PeacockTV.com/tv <#>`_ to activate Peacock TV on your device quickly. Fol
 
 .. image:: Button.png
    :alt: PeacockTV.com/tv
-   :target: https://fm.ci/?aHR0cHM6Ly9wZWFjb2NrLXR2LWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://sites.google.com/view/wwwpeacocktvcomtv/
 .. raw:: html
 
     </div>
